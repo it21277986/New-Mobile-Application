@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnAdd">AddNews</string>
+    <string name="homeBtn">Home</string>
+    <string name="categoryBtn">Category</string>
+    <string-array name="Category">
+        <item>Select Item</item>
+        <item>Headlines</item>
+        <item>Local News</item>
+        <item>International News</item>
+        <item>Sport News</item>
+        <item>Weather</item>
+    </string-array>
+</resources>
